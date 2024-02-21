@@ -3,7 +3,9 @@
 <!--
 **[Your GitHub Username]/[Your GitHub Username]** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+<div style="float:right; margin: 10px;">
+  <img src="https://copilot.microsoft.com/images/create/a-girl-coding-in-dark-not-showing-her-laptop/1-65d5ce96e9f1449392162d23216b23a4?id=xAIgBpY6JdlevTwzmCWuWQ%3D%3D&view=detailv2&idpp=genimg&idpclose=1&thId=OIG3.AWWMREgiHURGaGt_f526&ineditshare=1" alt="Vaishnavi" width="200"/>
+</div>
 ## About Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/vaishnavi246/)  | [LeetCode](https://leetcode.com/vaishnavi246/) 
