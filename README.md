@@ -14,3 +14,6 @@
 - 💬 I love brainstorming and collaborating on interesting projects.
 - ⚡ Fun fact: I enjoy solving Rubik's Cube puzzles and doing reasoning exercises.
 - ☕ Java isn't just a language; it's my journey.
+- ✨ My ideal weekend? Imagine: coding, more coding, and just when you think there's enough coding, a sprinkle of even more coding!
+
+
