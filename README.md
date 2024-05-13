@@ -17,4 +17,10 @@
 - ☕ Java isn't just a language; it's my journey.
 - ✨ My ideal weekend? Imagine: coding, more coding, and just when you think there's enough coding, a sprinkle of even more coding!
 
+## Projects
 
+### Court Room | [GitHub Link](#) | Jan 2023 - Present
+- Developing an e-portal for facilitating Case-Scheduling & Hearing of various cases.
+- Introduced blockchain and smart contracts to securely store legal documents, ensuring data integrity before trials.
+- Designed user-friendly interfaces with real-time communication, streamlining interactions among legal stakeholders.
+- Tech Stack: React, Firebase, Node, Ethereum, Swarm, WebRTC, Git, GitHub.
