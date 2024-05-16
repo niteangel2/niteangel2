@@ -35,7 +35,7 @@ Currently I am working on :
 ## Achievements
 
 - Qualified GATE 2024 in Computer Science, demonstrating proficiency and dedication.
-- Attained a Top 50 All India rank in Code Like ADA Hackathon 2024. [Link](https://www.linkedin.com/in/vaishnavi246/overlay/1708504161508/single-media-viewer/?type=IMAGE&profileId=ACoAADipyA0BFyXuB7PWOWKY4QlXl86p7kj06TY)
-- Won Bug Detection At Ignitia among 200+ participants (02/2023). [Link](https://www.linkedin.com/in/vaishnavi246/overlay/1635550556881/single-media-viewer/?profileId=ACoAADipyA0BFyXuB7PWOWKY4QlXl86p7kj06TY)
+- Attained a Top 50 All India rank in Code Like ADA Hackathon 2024. [Link](https://drive.google.com/file/d/1U5vm-PHLiJZSgETykK8EWRXedMGuWHdS/view?usp=sharing)
+- Won Bug Detection At Ignitia among 200+ participants (02/2023). [Link](https://drive.google.com/file/d/1bE7zTx4r1Dmm8Fxe-M2d1nQiCHS1J6ns/view?usp=sharing)
 - Secured 1353rd among 75000+ participants in TechGig Geek Goddess Semi-Finale (2022).
 - Completed 750+ problems on Leetcode with 500+ days of consistent coding.
