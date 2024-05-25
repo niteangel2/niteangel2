@@ -39,3 +39,16 @@ Currently I am working on :
 - Won Bug Detection At Ignitia among 200+ participants (02/2023). [Link](https://drive.google.com/file/d/1bE7zTx4r1Dmm8Fxe-M2d1nQiCHS1J6ns/view?usp=sharing)
 - Secured 1353rd among 75000+ participants in TechGig Geek Goddess Semi-Finale (2022).
 - Completed 750+ problems on Leetcode with 500+ days of consistent coding.
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">⚙️ &nbsp;GitHub Analytics</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+<a href="https://github.com/niteangel2">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=niteangel2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=niteangel2&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
