@@ -19,7 +19,7 @@
 
 ## Projects
 Currently I am working on : 
-### Court Room | [GitHub Link](https://github.com/GeekyMates/Frontend_ecourts) | Jan 2023 - Present
+### Court Room | [GitHub Link](https://github.com/GeekyMates/Frontend_ecourts) | Dec 2023 - Present
 - Developing an e-portal for facilitating Case-Scheduling & Hearing of various cases.
 - Introduced blockchain and smart contracts to securely store legal documents, ensuring data integrity before trials.
 - Designed user-friendly interfaces with real-time communication, streamlining interactions among legal stakeholders.
