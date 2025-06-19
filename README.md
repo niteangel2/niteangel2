@@ -23,7 +23,7 @@
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/vaishnavi246/)  | [LeetCode](https://leetcode.com/vaishnavi246/) 
 - 📧 Email: [vaishnavisaxena246@gmail.com](mailto:vaishnavisaxena246@gmail.com)
-- 🎓 Currently pursuing B.Tech in Computer Science (Fourth year).
+- 🎓 Graduated in B.Tech in Computer Science.
 - 🔭: I’m currently working on enhancing my skills in Java Backend - Spring, SpringBoot, Docker and Cloud technologies.
 - 💬 Ask me about
     - Programming in Java/C++
